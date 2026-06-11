@@ -75,9 +75,7 @@ spotify-clone/
 
 Add your screenshot here:
 
-```md
-![Spotify Clone Preview](screenshot.png)
-```
+
 
 (Important: Remove the triple backticks when adding in README)
 
